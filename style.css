@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: coral;
+}
+h1{
+    color: aqua;
+}
+img{
+border: 2px dashed rgb(132, 219, 139);
+border-radius: 10px;
+}
